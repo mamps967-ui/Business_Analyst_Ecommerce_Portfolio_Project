@@ -43,8 +43,6 @@ Business Analysis, Excel, SQL/MySQL, Power BI-ready data, Agile/Scrum concepts, 
 The project demonstrates the BA workflow:
 **Business Problem → Stakeholders → As-Is Process → Gap Analysis → Requirements → User Stories → RTM → SQL Analysis → KPI Dashboard → To-Be Recommendation → UAT**
 
-### Suggested Interview Explanation
-“I worked on a simulated e-commerce process improvement case where the business was facing delivery delays and cancellations. I mapped the As-Is process, identified gaps, documented requirements and user stories, created an RTM, analyzed operational data using SQL, and designed a KPI dashboard. I then proposed a To-Be process with exception alerts and better order tracking. The project helped me practice translating a business problem into measurable requirements and an actionable solution.”
 
-### Publishing
-Upload the ZIP contents to a GitHub repository, add screenshots of the dashboard/process map, then link the repository from LinkedIn and Naukri. Use the included LinkedIn and Naukri text as a starting point.
+
+
